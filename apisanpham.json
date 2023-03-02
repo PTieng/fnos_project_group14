@@ -1,0 +1,473 @@
+{
+  "apiproduct": [
+    {
+      "id": 2,
+      "name": "Air Jordan Triple White",
+      "price": "300",
+      "image": "https://i.imgur.com/BjbCoWT.jpg",
+      "category": "giày",
+      "category2": "NIKE"
+    },
+    {
+      "id": 5,
+      "name": "Air Jordan Legacy",
+      "price": "290",
+      "image": "https://i.imgur.com/UK5ltuF.jpg",
+      "category": "giày",
+      "category2": "NIKE"
+    },
+    {
+      "id": 6,
+      "name": "Jordan Low Golf",
+      "price": "310",
+      "image": "https://i.imgur.com/kX8KV1I.jpg",
+      "category": "giày",
+      "category2": "NIKE"
+    },
+    {
+      "id": 7,
+      "name": "JORDAN AIR 200E",
+      "price": "300",
+      "image": "https://i.imgur.com/airWU5P.jpg",
+      "category": "giày",
+      "category2": "NIKE"
+    },
+    {
+      "id": 8,
+      "name": "JORDAN 1 LOW SE",
+      "price": "330",
+      "image": "https://i.imgur.com/ONff9oW.jpg",
+      "category": "giày",
+      "category2": "NIKE"
+    },
+    {
+      "id": 9,
+      "name": "Converse Chuck Taylor All Star Workwear Textike",
+      "price": "325",
+      "image": "https://i.imgur.com/CUxgnTF.jpg",
+      "category": "giày",
+      "category2": "CONVERESE"
+    },
+    {
+      "id": 10,
+      "name": "Converse Chuck Taylor All Star Double Stack",
+      "price": "300",
+      "image": "https://i.imgur.com/Guth98d.jpg",
+      "category": "giày",
+      "category2": "CONVERESE"
+    },
+    {
+      "id": 11,
+      "name": "Converse Run Star Hike Low Top",
+      "price": "310",
+      "image": "https://i.imgur.com/yGTM38L.jpg",
+      "category": "giày",
+      "category2": "CONVERESE"
+    },
+    {
+      "id": 13,
+      "name": "Converse Chuck Taylor All Star 1970s",
+      "price": "350",
+      "image": "https://i.imgur.com/YvzlX9y.jpg",
+      "category": "giày",
+      "category2": "CONVERESE"
+    },
+    {
+      "id": 14,
+      "name": "Converse Chuck Taylor All Star Re-New",
+      "price": "310",
+      "image": "https://i.imgur.com/WXuFY77.jpg",
+      "category": "giày",
+      "category2": "CONVERESE"
+    },
+    {
+      "id": 15,
+      "name": "Converse Chuck Taylor All Star Make It",
+      "price": "330",
+      "image": "https://i.imgur.com/MMhYsyb.jpg",
+      "category": "giày",
+      "category2": "CONVERESE"
+    },
+    {
+      "id": 16,
+      "name": "Converse Chuck 70 Voltage",
+      "price": "320",
+      "image": "https://i.imgur.com/Srpyzn3.jpg",
+      "category": "giày",
+      "category2": "CONVERESE"
+    },
+    {
+      "id": 17,
+      "name": "Adidas Ultraboot 20 Black FY3457",
+      "price": "320",
+      "image": "https://i.imgur.com/CvH9HMq.jpg",
+      "category": "giày",
+      "category2": "ADIDAS"
+    },
+    {
+      "id": 18,
+      "name": "Adidas Next Level 'Tech Olive' F97258",
+      "price": "330",
+      "image": "https://i.imgur.com/K24TBwM.png",
+      "category": "giày",
+      "category2": "ADIDAS"
+    },
+    {
+      "id": 19,
+      "name": "Adidas NMD Hu Pharrell Inspiration EE7583",
+      "price": "310",
+      "image": "https://i.imgur.com/YpKfp2E.png",
+      "category": "giày",
+      "category2": "ADIDAS"
+    },
+    {
+      "id": 21,
+      "name": "Adidas Dame 7 'Solor Red' G55199",
+      "price": "380",
+      "image": "https://i.imgur.com/bSVuxxQ.jpg",
+      "category": "giày",
+      "category2": "ADIDAS"
+    },
+    {
+      "id": 22,
+      "name": "Adidas Ultraboost 21 FY0384",
+      "price": "300",
+      "image": "https://i.imgur.com/FhGwMyB.jpg",
+      "category": "giày",
+      "category2": "ADIDAS"
+    },
+    {
+      "id": 23,
+      "name": "Adidas 4D Fusio UltraBoost FZ2414",
+      "price": "380",
+      "image": "https://i.imgur.com/XnZpZkI.png",
+      "category": "giày",
+      "category2": "ADIDAS"
+    },
+    {
+      "id": 26,
+      "name": "MLB Chunky Liner High LA Dodgers 3ASXCB12N-50NYD",
+      "price": "410",
+      "image": "https://i.imgur.com/M8ZdPSv.png",
+      "category": "giày",
+      "category2": "MLB"
+    },
+    {
+      "id": 27,
+      "name": "MLB Big Ball Chunky A New York Yankees 3ASHC101N-50BGL",
+      "price": "410",
+      "image": "https://i.imgur.com/QeBgaYi.jpg",
+      "category": "giày",
+      "category2": "MLB"
+    },
+    {
+      "id": 28,
+      "name": "MLB Big Ball Chunky Cube Monogram 3ASHCGM2N-50WHS",
+      "price": "430",
+      "image": "https://i.imgur.com/w6oo183.jpg",
+      "category": "giày",
+      "category2": "MLB"
+    },
+    {
+      "id": 33,
+      "name": "New Balance 550 Oreo BB550HA1",
+      "price": "300",
+      "image": "https://i.imgur.com/Vf6U0bi.jpg",
+      "category": "giày",
+      "category2": "NB"
+    },
+    {
+      "id": 34,
+      "name": "New Balance 550 White Grey (GS)",
+      "price": "310",
+      "image": "https://i.imgur.com/RrJd4RS.png",
+      "category": "giày",
+      "category2": "NB"
+    },
+    {
+      "id": "nike05",
+      "name": "giày nike",
+      "price": "1111111",
+      "status": "",
+      "category": "Giày",
+      "image": "https://i.imgur.com/BjbCoWT.jpg"
+    },
+    {
+      "id": "jacket33",
+      "name": "áo khoác",
+      "price": "100",
+      "status": "",
+      "category": "Jacket",
+      "category2": "JacketHome",
+      "image": "https://i.imgur.com/ussfmI4.jpg"
+    },
+    {
+      "id": "puma01",
+      "name": "Puma v1",
+      "price": "310",
+      "status": "",
+      "category": "Giày",
+      "image": "https://i.imgur.com/MTzRgJz.jpg",
+      "category2": "PUMA"
+    },
+    {
+      "id": "jean01",
+      "name": "Quần Jeans 01",
+      "price": "150",
+      "status": "",
+      "category": "Jeans",
+      "image": "https://i.imgur.com/8x5bEZc.jpg"
+    },
+    {
+      "id": "short01",
+      "name": "Quần Short 01",
+      "price": "30",
+      "status": "",
+      "category": "Short",
+      "category2": "",
+      "image": "https://i.imgur.com/ImLg0gG.jpg"
+    },
+    {
+      "id": "tee01",
+      "name": "Áo Thun 01",
+      "price": "10",
+      "status": "",
+      "category2": "Teehome",
+      "category": "Tee",
+      "image": "https://i.imgur.com/eUi4CNt.jpg"
+    },
+    {
+      "id": "tee02",
+      "name": "Áo Thun 02",
+      "price": "15",
+      "status": "",
+      "category": "Tee",
+      "category2": "Teehome",
+      "image": "https://i.imgur.com/NURfSxH.jpg"
+    },
+    {
+      "id": "tee03",
+      "name": "Áo Thun 03",
+      "price": "12",
+      "status": "",
+      "category": "Tee",
+      "category2": "Teehome",
+      "image": "https://i.imgur.com/CbFSXh4.jpg"
+    },
+    {
+      "id": "tee04",
+      "name": "Áo Thun 04",
+      "price": "20",
+      "status": "",
+      "category": "Tee",
+      "category2": "Teehome",
+      "image": "https://i.imgur.com/Wk1eoRZ.jpg"
+    },
+    {
+      "id": "jacket02",
+      "name": "Áo Khoác 02",
+      "price": "50",
+      "status": "",
+      "category": "Jacket",
+      "category2": "JacketHome",
+      "image": "https://i.imgur.com/V5f0ukr.jpg"
+    },
+    {
+      "id": "jacket03",
+      "name": "Áo Khoác 03",
+      "price": "30",
+      "status": "",
+      "category": "Jacket",
+      "category2": "JacketHome",
+      "image": "https://i.imgur.com/I5cS60W.jpg"
+    },
+    {
+      "id": "jacket04",
+      "name": "Áo Khoác 04",
+      "price": "25",
+      "status": "",
+      "category": "Jacket",
+      "category2": "JacketHome",
+      "image": "https://i.imgur.com/ZV8vtt9.jpg"
+    },
+    {
+      "id": "quan01",
+      "name": "Quần Short 01",
+      "price": "15",
+      "status": "",
+      "category": "Short",
+      "image": "https://i.imgur.com/dP0DRR0.jpg"
+    },
+    {
+      "id": "quan02",
+      "name": "Quần Short 02",
+      "price": "13",
+      "status": "",
+      "category": "Short",
+      "category2": "Shorthome",
+      "image": "https://i.imgur.com/EzMpOqa.jpg"
+    },
+    {
+      "id": "quan03",
+      "name": "Quần Short 03",
+      "price": "11",
+      "status": "",
+      "category": "Short",
+      "image": "https://i.imgur.com/69VUzC8.jpg"
+    },
+    {
+      "id": "quan04",
+      "name": "Quần Short 04",
+      "price": "15",
+      "status": "",
+      "category": "Short",
+      "category2": "Shorthome",
+      "image": "https://i.imgur.com/akc2wG1.jpg"
+    },
+    {
+      "id": "quan05",
+      "name": "Quần Jogger 01",
+      "price": "20",
+      "status": "",
+      "category": "Short",
+      "category2": "Shorthome",
+      "image": "https://i.imgur.com/lDVUxGG.jpg"
+    },
+    {
+      "id": "quan06",
+      "name": "Quần Jogger 02",
+      "price": "20",
+      "status": "",
+      "category": "Short",
+      "category2": "Shorthome",
+      "image": "https://i.imgur.com/3YhPB2I.jpg"
+    },
+    {
+      "id": "jean1",
+      "name": "Quần Jeans 01",
+      "price": "25",
+      "status": "",
+      "category": "Jeans",
+      "category2": "JeansHome",
+      "image": "https://i.imgur.com/wTYV9Qj.jpg"
+    },
+    {
+      "id": "jean2",
+      "name": "Quần Jeans 02",
+      "price": "25",
+      "status": "",
+      "category": "Jeans",
+      "category2": "JeansHome",
+      "image": "https://i.imgur.com/ep2hDhz.jpg"
+    },
+    {
+      "id": "jean3",
+      "name": "Quần Jeans 03",
+      "price": "25",
+      "status": "",
+      "category": "Jeans",
+      "category2": "JeansHome",
+      "image": "https://i.imgur.com/W8VQo25.jpg"
+    },
+    {
+      "id": "jean4",
+      "name": "Quần Jeans 04",
+      "price": "27",
+      "status": "",
+      "category": "Jeans",
+      "category2": "JeansHome",
+      "image": "https://i.imgur.com/BzBeQxL.jpg"
+    },
+    {
+      "id": "puma02",
+      "name": "Puma v2",
+      "price": "310",
+      "status": "",
+      "category": "Giày",
+      "image": "https://i.imgur.com/MSRZGnY.jpg",
+      "category2": "PUMA"
+    },
+    {
+      "id": "puma03",
+      "name": "Puma v3",
+      "price": "300",
+      "status": "",
+      "category": "Giày",
+      "category2": "PUMA",
+      "image": "https://i.imgur.com/028hj24.jpg"
+    },
+    {
+      "id": "puma04",
+      "name": "Puma v4",
+      "price": "320",
+      "status": "",
+      "category": "Giày",
+      "category2": "PUMA",
+      "image": "https://i.imgur.com/CpCcx0F.jpg"
+    },
+    {
+      "id": "nb01",
+      "name": "New Balance V3",
+      "price": "300",
+      "status": "",
+      "category": "Giày",
+      "image": "https://i.imgur.com/pLhMGUB.jpg",
+      "category2": "NB"
+    },
+    {
+      "id": "nb03",
+      "name": "New Balance V4",
+      "price": "320",
+      "status": "",
+      "category": "Giày",
+      "image": "https://i.imgur.com/Esm0LzS.jpg",
+      "category2": "NB"
+    }
+  ],
+  "userapi": [
+    {
+      "name": "ptieng",
+      "email": "ptieng@gmail.com",
+      "phone": "0321654980",
+      "password": "tieng123",
+      "id": 3
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "phone": "0321654980",
+      "password": "admin123",
+      "id": 1
+    },
+    {
+      "name": "lyhung",
+      "email": "lyhung@gmail.com",
+      "phone": "0321654980",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "antran",
+      "email": "antran3@gmail.com",
+      "phone": "0321654980",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "nguyenhung",
+      "email": "nguyenhung@gmail.com",
+      "phone": "0321654980",
+      "password": "123456",
+      "id": 6
+    }
+  ],
+  "lienheapi": [
+    {
+      "id": 1,
+      "name": "",
+      "email": "",
+      "phone": "",
+      "status": ""
+    }
+  ]
+}

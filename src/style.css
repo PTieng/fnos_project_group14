@@ -1,0 +1,750 @@
+body {
+    font-family: system-ui;
+ }
+ #dang_nhap  a {
+     color: white;
+     text-decoration: none;
+     margin-left: 5px;
+     margin-right: 5px;
+ }
+ 
+ #thong_bao p {
+     color: white;
+ }
+ .header p  {
+     padding-top: 5px;
+     margin-top: 3px;
+ }
+ 
+ .header #dang_nhap {
+     padding-top: 5px;
+     margin-top: 3px;
+ }
+ 
+ 
+ .navbar-brand {
+     font-size: 33px;
+     font-weight: bold;
+ }
+ 
+ .cart a i {
+     color: black;
+     font-size: 25px;
+ }
+ 
+ .user a i {
+     color: black;
+     font-size: 25px;
+     margin-left: 10px;
+ }
+ 
+ 
+ i.fa-search:hover {
+ color: #ffbae2;
+ }
+ 
+ ul.navbar-nav li.nav-item a.nav-link{
+     font-size: 20px;
+     margin: 5px;
+     font-weight: 600;
+ }
+  #background {
+     padding-top: 50px;
+  }
+ 
+  #background img {
+     height: 650px;
+  }
+ 
+ .menu {
+     background-image: linear-gradient(to right, rgb(157, 0, 255), #ee2173, rgb(247, 110, 47));
+     
+  }
+ 
+  .card {
+     margin: 10px;
+     height: 400px;
+     border-radius: 2px;
+     border: none;
+  }
+ 
+  .card .card-body p a  {
+     text-decoration: none;
+     color: black;
+     font-size: 20px;
+     justify-content: center;
+     
+  }
+ 
+  .card img.card-img {
+     height: 330px;
+  }
+ 
+  /* #thuong_hieu {
+    background-color: rgb(225, 229, 232);
+  } */
+ 
+  #ao .card:hover img, #quan .card:hover img{
+   transform: rotateY(180deg);
+   transition: 2s;
+  }
+
+  #thuong_hieu a img {
+     height: 150px;
+     opacity: 0.4;
+  }
+  #thuong_hieu a img:hover {
+    opacity: 1;
+ }
+  
+  #giay p {
+     font-weight: bold;
+     font-size: 35px;
+     text-align: center;
+  }
+ 
+  #ao p.title,
+  #quan p.title{
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+ }
+ 
+ 
+  #thuong_hieu p {
+     font-weight: bold;
+     font-size: 35px;
+     text-align: center;
+  }
+ 
+  /* section #thuong_hieu {
+     background-color: rgb(200, 206, 212);
+  } */
+ 
+  section #thuong_hieu a img{
+     margin: 25px 10px;
+  }
+ 
+  .card .card-img-overlay input {
+     width: 650px;
+  }
+ 
+  section #chinh_sach p b {
+     font-size: 15px;
+     padding-top: 5px;
+  }
+ 
+ 
+  #gioi_thieu h1 {
+     font-size: 50px;
+     color: red;
+  }
+ 
+  #ao .row p#ao_thun,
+  #ao .row p#ao_khoac,
+  #quan .row p#quan_short,
+  #quan .row p#quan_jeans {
+    font-weight: 500;
+    margin-left: 15px;
+    font-size: 20px;
+  }
+ 
+  /* .card img#img.card-img.giay_product:hover {
+    transform: scale(1.2) translate(0,-20px);
+  } */
+ 
+  .card {
+    background-color: #f5f5f566;
+  }
+ 
+  .cart label  {
+    text-align: center;
+    width: max-content;
+    display: block;
+    margin: auto;
+    border-color: #f5f5f566;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    transition: 0.5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(0, 10px);
+    opacity: 0;
+  }
+ 
+  .card:hover .cart label {
+    opacity: 1;
+    transform: translate(0,-3px);
+  }
+  .card:hover p.card-title a {
+    color: #ee2173;
+ 
+  }
+ 
+  .cart label button {
+    border: 0;
+    background-color: #f5f5f566;
+  }
+ 
+  .cart label button i{
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+  }
+ 
+  .card {
+    margin: 20px;
+  }
+ 
+  .cart:hover label button i{
+    color: rgb(157, 0, 255);
+  }
+  .menu nav ul li ul.dropdown-menu {
+    display: none;
+ }
+ .menu nav ul li:hover ul.dropdown-menu{
+    display: block;
+ }
+ 
+ 
+ 
+  
+ .menu nav ul li a{
+    position: relative;
+ }
+ 
+ 
+ a.nav-link::before {
+    content: "";
+    height: 4px;
+    width: 0px;
+    background: #eda2ce;
+    position: absolute;
+    bottom: 0px; 
+    left: 0px;
+    transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+ }
+ 
+ 
+ .menu nav ul li:hover a::before {
+    width: 100%;
+ }
+ 
+ .cart button,.user button {
+    border: 0;
+ }
+ .cart button i,.user button i {
+    font-size: 20px;
+ }
+ 
+ ul.dropdown-menu li a.dropdown-item:hover {
+    color: rgb(235, 126, 86);
+    font-weight: 700;
+ }
+ 
+ 
+ .user button i:hover {
+    color: #ffbae2;
+    transform: translate(0,-5px);
+ }
+ 
+ .cart_buy button.btn i:hover {
+    color: #ffbae2;
+    transform: rotate(15deg);
+ }
+ 
+ section.bang_tin a img.img-fluid {
+    margin: 5px;
+ }
+ 
+ section.bang_tin p a {
+    font-weight: 600;
+    font-size: 21px;
+    text-decoration: none;
+    color: #000;
+ }
+ 
+ .form-control {
+    opacity: 0.6;
+ }
+ 
+ 
+ #chinh_sach {
+    padding: 5px;
+ }
+ 
+ #gioi_thieu {
+    padding-top: 50px;
+    margin-top: -50px;
+ }
+ 
+ #gioi_thieu h5 p {
+    padding-top: 100px;
+    margin-top: 100px;
+ }
+ 
+ #gioi_thieu h5 {
+    font-size: 45px;
+    padding: 10px;
+ }
+ 
+ .he_thong_1 a {
+    text-decoration: none;
+ }
+ 
+ p.chi_nhanh {
+    font-size: 20px;
+    font-weight: bold;
+ }
+ 
+ #he_thong {
+    margin: 10px;
+    padding: 10px;
+ }
+ 
+ 
+ #lien_he {
+   padding-top: 25px;
+   margin-top: -35px;
+ }
+ 
+
+ #lien_he .row {
+    margin: 10px;
+    padding: 10px;
+ }
+
+ #lien_he h5 {
+    font-size: 35px;
+    margin-left: 45px;
+ }
+
+ button.btn.btn-primary2 {
+    width: 80px;
+    background-color:  #e96b86;
+    border: 0;
+}
+
+ #lien_he input.form-control {
+    opacity: 1;
+ }
+
+#blog {
+   margin-top: -65px;
+   padding-top: 100px;
+ }
+
+ #blog h5 {
+    font-size: 25px;
+    font-weight: 500;
+ }
+
+ section#blog1 {
+    margin-top: 50px;
+    padding-top: 100px;
+    margin-bottom: 20px;
+ }
+
+ #blog1 h5 {
+    font-size: 30px;
+ }
+
+
+ #blog1 p.card-body {
+    margin-top: 15px;
+ }
+
+ #blog1 .img_blog1 img.img-fluid {
+    max-width: 100%;
+    height: fit-content;
+ }
+
+ #nike, #mlb, #adidas ,#converse ,#nb , #puma, #shirt,#jacket{
+   margin-top: -65px;
+   padding-top: 50px;
+ }
+
+ #nike .card {
+   height: 450px;
+ }
+
+
+ #nike .card:hover img.card-img , #sp_tuong_tu .card:hover img.card-img {
+    transform: scale(0.9) rotate(20deg);
+    transition: 1s;
+
+ }
+
+ #nike p.card-title a {
+    font-size: 15px;
+    font-weight: 600;
+ }
+/* 
+ #mlb {
+    margin-top: 50px;
+    padding-top: 100px;
+ } */
+
+
+ #mlb .card:hover img.card-img, #nb .card:hover img.card-img,#puma .card:hover img.card-img  {
+    transform: scale(0.8) rotate(-20deg);
+    transition: 1s;
+ }
+
+ #mlb .card img.card-img, #puma .card img.card-img{
+    height: 100%;
+    max-width: 100%;
+ }
+
+ #mlb p.card-title a {
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 600;
+ }
+
+#mlb.card{
+   margin: 15px;
+   height: 440px;
+   border-radius: 2px;
+   border: none;
+   margin-top: 50px;
+
+} 
+
+#adidas .card img.card-img {
+   height: 100%;
+   max-width: 100%;
+}
+#adidas .card:hover img.card-img,#converse .card:hover img.card-img {
+   transform: scale(0.9) rotate(20deg);
+   transition: 1s;
+}
+
+#shirt .card:hover img {
+   transform: rotateY(180deg);
+   transition: 1.5s;
+}
+
+.card {
+   height: 460px;
+}
+
+
+#nike_item {
+   margin-top: -100px;
+   padding-top: 100px;
+   margin-bottom: 20px;
+}
+
+
+
+#nike_item .img-big img {
+   height: 450px;
+   width: 600px;
+}
+
+.size_giay button {
+   margin: 2px;
+}
+
+.vi_tri_trang {
+   margin-top: 40px;
+   margin-bottom: 10px;
+   padding-top: 100px;
+}
+
+.vi_tri_trang p a {
+   text-decoration: none;
+   color: #000;
+}
+
+#nike_item .card {
+   border: 1px solid black;
+   width: 470px;
+}
+
+#nike_item .card img {
+   height: 100%;
+  
+}
+
+#nike_item .img-small img{
+   max-height: 120.5px;
+   max-width: 116.75px;
+   margin: 3px;
+}
+
+/* .previous button  {
+   border: 0;
+   background-color: white; 
+   display: block;
+}
+
+.next button {
+   border: 0;
+   background-color: white; 
+   display: block;
+   width: 15px;
+} */
+
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+   margin: auto;
+   display: inline-block;
+   width: 2rem;
+   height: 2rem;
+   background-repeat: no-repeat;
+   background-position: 50%;
+   background-size: 100% 100%;
+
+}
+
+.next button i {
+   border: 0;
+   background-color: white;
+   /* padding-left: 410px; */
+}
+
+/* #info-cart input {
+   margin-left: -50px;
+} */
+
+
+
+.dropdown-item.active, .dropdown-item:active {
+   font-weight: 700;
+    color: rgb(183, 47, 213);
+   background-color: white;
+}
+
+.btn-light:active {
+   background-color: blue;
+}
+ 
+ 
+.log.icon span i.fa-user {
+   margin-top: 50px;
+}
+
+#homePage,#productPage {
+   margin-top: 150px;
+   margin-bottom: 140px;
+}
+
+#homePage .card {
+  margin-top: 15vh;
+   height: 30vh;
+   width: 100%;
+   border: 1px solid black;
+}
+
+.card#money {
+  background-color: rgb(217, 217, 105);
+}
+
+.card#product {
+   background-color: rgb(183, 233, 108);
+}
+
+.card#order {
+   background-color: rgb(128, 128, 229);
+}
+
+.card#user {
+   background-color: rgb(240, 73, 73);
+}
+#productPage input {
+   border: blue;
+
+   margin-left: -10%;
+}
+
+#productPage form {
+ margin-left: 15px;
+ padding: 5px 0;
+}
+#productPage form input {
+   border: 1px solid black;
+   border-radius: 8px;
+}
+
+#productPage button.edit_product {
+   color: #3037f6;
+}
+
+.quantity {
+   margin-left: -38px;
+}
+
+header button i.fa-cart-shopping{
+   color: #000;
+}
+
+button.minus, button.plus {
+   width: 28%;
+}
+
+button.minus i:hover, button.plus i:hover {
+   color: #e96b86;
+   border: none;
+} 
+button.minus:hover, button.plus:hover {
+   color: #e96b86;
+   border: none;
+} 
+
+/* .fa-minus:before, .fa-subtract:before {
+   margin-left: -60px;
+} */
+
+.quantity {
+   display: inline;
+}
+
+.login{
+   margin: 0;
+   padding: 0;
+   font-family: montserrat;
+   background-image: linear-gradient(to right, rgb(174, 71, 237), #e9679b, rgb(236, 153, 115));
+   height: 100vh;
+   overflow: hidden;
+}
+
+.container#login {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   width: 350px;
+   background: white;
+   border-radius: 10px;
+  
+}
+
+.container#login h2 {
+   text-align: center;
+   padding: 0 0 20px 0;
+   border-bottom: 1px solid silver;
+}
+
+.container#login form {
+   padding: 0 40px;
+   box-sizing: border-box;
+}
+form#login .input-box,.input-box-top {
+   position: relative;
+   border-bottom: 2px solid #adadad;
+   margin: 30px 0;
+}
+
+.input-box input,.input-box-top input {
+   width: 100%;
+   padding: 0 5px;
+   height: 40px;
+   font-size: 16px;
+   border: none;
+   background: none;
+   outline: none;
+}
+.input-box label {
+   position: absolute;
+   top: 50%;
+   left: 5px;
+   color: #adadad;
+   transform: translateY(-50%);
+   font-size: 16px;
+   pointer-events: none;
+   transition: .5s;
+}
+
+.input-box span::before {
+   content: '';
+   position: absolute;
+   top: 40px;
+   left: 0;
+   width: 0%;
+   height: 2px;
+   background: #d926d3;
+   transition: .5s;
+}
+
+.input-box input:focus ~ label,.input-box input:valid ~ label {
+   top: -5px;
+   color: #ec7915 ;
+}
+
+.input-box input:focus ~ span::before,.input-box input:valid ~ span::before {
+  width: 100%;
+}
+
+.forgot-pass {
+   margin: -5px 0 20px 5px;
+   color: #a6a6a6;
+   text-decoration: none;
+}
+
+.forgot-pass:hover {
+   text-decoration: underline;
+   color: #2691d9;
+}
+
+button#login[type="btn"] {
+   width: 100%;
+   height: 50px;
+   border: 1px solid;
+   background: #e65087;
+   border-radius: 25px;
+   font-size: 18px;
+   color: #e9f4fb;
+   font-weight: 700;
+   cursor: pointer;
+   outline: none;
+   /* margin-bottom: 5px; */
+}
+button#login[type="btn"]:hover {
+   border-color: #e65087;
+   transition: .5s;
+}
+
+.sigup {
+   margin: 30px 0;
+   text-align: center;
+   font-size: 16px;
+   color: #666666;
+}
+
+.sigup a {
+   color: #2691d9;
+   text-decoration: none;
+}
+
+.sigup a:hover {
+   text-decoration: underline;
+   
+}
+
+button#payment a {
+   text-decoration: none;
+   color: #e9f4fb;
+}
+
+.container#payment {
+   margin-top: 150px;
+}
+
+.card#donhang{
+   border: 1px solid black;
+   height: 300px;
+   width: 50%;
+}
+
+
+button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled) {
+    margin-top: 10px;
+}
+/* .user-logout:hover {
+   color: white;
+}
+  */
