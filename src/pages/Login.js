@@ -9,9 +9,9 @@ const Login = () => {
     // const username = event.target.elements.username.value;
     // const password = event.target.elements.password.value;
     // if (username === "admin" && password === "123456") {
-    navigate("/admin");
+    navigate("/Home");
     // }
-    toast("Chào Mừng Đến Trang Quảng Trị");
+    toast("Chào Mừng Đến Với FNOS");
   };
   return (
     <>

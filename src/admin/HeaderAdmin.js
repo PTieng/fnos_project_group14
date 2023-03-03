@@ -76,7 +76,7 @@ const HeaderAdmin = () => {
                       </button>
                       <ul className="dropdown-menu">
                         <li>
-                          <NavLink to={"/Login"} className="dropdown-item">
+                          <NavLink to={"/admin"} className="dropdown-item">
                             Đăng Xuất
                           </NavLink>
                         </li>

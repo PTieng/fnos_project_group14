@@ -156,8 +156,8 @@ const ProductsAdmin = () => {
                     className="form-control"
                     id="name"
                     name="id"
-                    value={inputData.id}
-                    onChange={handleInputChange}
+                      value={inputData.id}
+                      onChange={handleInputChange}
                   />
                 </div>
                 <div className="form-group mt-2">
